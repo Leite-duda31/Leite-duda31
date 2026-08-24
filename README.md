@@ -1,24 +1,30 @@
-I started in this area at age 11, interested in programming. However, I soon felt the need to go further: I didn't just want to build, but to "see what's inside." I've always been driven by the curiosity to understand the logic behind systems — from disassembling hardware to understand its architecture to mapping network protocols to ensure its security.
+Comecei nesta área aos 12 anos, interessado em programação. No entanto, logo senti a necessidade de ir além: eu não queria apenas construir, mas "ver o que havia dentro". Sempre fui movida pela curiosidade de entender a lógica por trás dos sistemas — desde desmontar hardware para compreender sua arquitetura até mapear protocolos de rede para garantir sua segurança.  
 
+Atualmente, meu foco é Infraestrutura de TI e Segurança Cibernética. Com domínio do Modelo OSI e experiência prática em ambientes virtualizados, busco constantemente otimizar processos e mitigar vulnerabilidades, tanto sistêmicas quanto humanas (Engenharia Social Ética). Acredito que a segurança digital é a base para o futuro da inovação. 
 
-Currently, I focus on IT Infrastructure and Cybersecurity. With mastery of the OSI Model and practical experience in virtualized environments (Kali Linux and Metasploitable), I constantly seek to optimize processes and mitigate vulnerabilities, both systemic and human (Ethical Social Engineering). I believe that digital security is the foundation for the future of innovation. My goal is to evolve as a Security Architect, applying analytical logic and precise execution to protect critical assets and data. I have the ability to understand and communicate in formal and technical contexts in English.  In addition, I have practical experience in raising awareness among people about cyber dangers.  
+Meu objetivo é me tornar Arquiteta de Segurança, aplicando lógica analítica e execução precisa para proteger ativos e dados críticos. Tenho a capacidade de compreender e me comunicar em contextos formais e técnicos em inglês. Além disso, possuo experiência prática em conscientização sobre os perigos cibernéticos. 
 
+Certificações Técnicas:
+Microsoft SC-100 (Arquiteto de Segurança Cibernética - 28 horas);
+Noções Básicas de Redes Cisco; 
+Dispositivos de Rede Cisco e Configuração Inicial;  
+Introdução à Segurança Cibernética Cisco;
+Certificado Defesa de Endpoint cisco;
+Jornada em Python (Automação, IA, Conexão Cliente-Servidor, Dados); 
+Informática Básica (Redes e Hardware);  Micro:bit (Aprendizagem Diamante);
+Certificado Excel na Prática (Fundação Bradesco, 16 horas);
+Curso de Inglês Intermediário em andamento;
+Certificado de Inglês (aprender do zero à fluência - Nível Iniciante);
+Certificado de Inglês (aprender do zero à fluência - Nível Básico); 
+Cisco CCST Segurança Cibernética (Em andamento);  
 
-Technical Certifications:
-Microsoft SC-100 (Cybersecurity Architect - 28h);
-Cisco Network Devices and Initial Setup;
-Cisco Introduction to Cybersecurity; 
-Cisco Networking Basics; 
-Python Journey (Automation, AI, Client-Server Connection, data)
-Basic Computing (Networks and Hardware); 
-Micro:bit (Diamond Apprenticeship); 
-Office Suite (Bradesco Foundation - 48h - Ongoing). Excel in Practice Certificate (Bradesco Foundation, 16 hours) part of the Office Suite.
-English Certificate (learn from zero to fluency - Elementary) 
-Intermediate English course in progress.  
-English certificate (learn from zero to fluency - Begginer)
-Cisco CCST Cybersecurity (Ongoing); 
+Experiência Prática e Projetos: Configuração de Laboratório (Metasploitable 3 e Kali Linux), e reconhecimento.
+Desenvolvimento em Python: 
+Projeto de modelo de chat cliente-servidor usando Sockets, Threads e Criptografia (Fernet). Análise de Dados com Python: Filtragem, organização e cruzamento de dados em bancos de dados no Excel
+Projeto de script de reconhecimento em python, mult-threading.
 
-Practical Experience and Projects:
-Lab Setup (Metasploitable 3 and Kali Linux). Python Development: Client-server chat model project using Sockets, Threads and Cryptography (Fernet).  Data Analytics with Python: Filtering, organizing, and cross-referencing databases in Excel. Currently available for freelance projects in: Spreadsheet and task automation, Web scraping, Database cleaning, and AI agents. 
+Atualmente disponível para projetos freelance em: Automação de planilhas e tarefas, Web scraping, Limpeza de banco de dados e agentes de IA.  
 
- Academic Context: Currently in 9th grade, preparing myself as a self-taught learner and through a preparatory course to enter the first class of the IT course at ETEC. However, I am already eligible to enter the job market as a young apprentice.
+Contexto Acadêmico: Cursando o 9º ano, estou me preparando como autodidata e através de um curso preparatório para ingressar na primeira turma do curso de TI na ETEC.  
+
+Aqui está meu linkedin para me contatar e conversar: www.linkedin.com/in/eduarda-leite-9a9b71358
