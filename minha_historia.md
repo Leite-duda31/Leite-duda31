@@ -8,7 +8,7 @@ Quando uma ferramenta, biblioteca ou abordagem não funciona como esperado, proc
 
 Meu objetivo é transformar cada erro em conhecimento reutilizável.
 
-~Saber que uma tecnologia existe é diferente de saber utilizá-la para resolver um problema real.~
+*Saber que uma tecnologia existe é diferente de saber utilizá-la para resolver um problema real.*
 
 Em trabalho em equipe, procuro assumir uma função clara para poder desempenhá-la da melhor maneira possível. Também busco comunicar problemas de forma objetiva, evitando que pequenas dificuldades se tornem problemas maiores. Respeito prazos e procuro entregar minhas tarefas com qualidade dentro do tempo disponível.
 
