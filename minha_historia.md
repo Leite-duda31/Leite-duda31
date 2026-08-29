@@ -1,12 +1,15 @@
-Bem, vou contar um pouco da minha história. 
+Comecei a estudar programação aos 12 anos por curiosidade. O interesse inicial em programação rapidamente se expandiu para redes, sistemas operacionais, infraestrutura e segurança.
 
-Eu era uma criança muito curiosa, eu tinha uns 11/12 anos, quando vi um assunto, a programação, passei uns tempos estudando, e olhando umas coisas, porém com dificuldade
-de integrar isso com a rotina escolar e de casa, passou uns anos, e eu cansei de estudar apenas construção, eu queria algo a mais, algo... melhor. 
+Eu não quero apenas fazer funcionar. Quero entender o que existe por trás.
 
-E então eu descobri a Cibersegurança, desde que eu era menor ainda, eu ainda tinha um... uma espécie de instinto, de ver o que tinha por trás, de procurar enxergar além do que queriam que eu visse. 
+Quando encontro um problema, não tento apenas procurar uma solução pronta. Primeiro procuro reproduzi-lo, entender o que está acontecendo e formular hipóteses. A partir disso, estudo os conceitos envolvidos e testo diferentes abordagens até compreender a causa.
 
-Eu fiquei encantada, e então começei a estudar, acumulei conhecimento e então eu pensei "porque não colocar meu conhecimento em prática com a programação?". 
+Quando uma ferramenta, biblioteca ou abordagem não funciona como esperado, procuro entender suas limitações em vez de simplesmente substituí-la.
 
-Além disso eu tenho a capacidade de olhar para problemas muito grandes, quebrar eles em pedaços menores, e de olhar para uma coisa já criada, e ver onde a lógica dela falha. 
+Meu objetivo é transformar cada erro em conhecimento reutilizável.
 
-hoje em dia tenho 14 anos e sonho em trabalhar com cibersegurança, e, algum dia, realizar meus projetos. Não os que estão aqui, mas sim os que eu guardo comigo.
+~Saber que uma tecnologia existe é diferente de saber utilizá-la para resolver um problema real.~
+
+Em trabalho em equipe, procuro assumir uma função clara para poder desempenhá-la da melhor maneira possível. Também busco comunicar problemas de forma objetiva, evitando que pequenas dificuldades se tornem problemas maiores. Respeito prazos e procuro entregar minhas tarefas com qualidade dentro do tempo disponível.
+
+Atualmente, busco desenvolver meus conhecimentos por meio de projetos práticos, estudos independentes e experimentação.
