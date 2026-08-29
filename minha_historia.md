@@ -19,4 +19,6 @@ Durante o desenvolvimento do Leviata, encontrei alguns problemas relacionados pr
 
 Antes disso, também tive uma experiência semelhante ao começar a explorar o BlackArch Linux. Passei bastante tempo investigando problemas relacionados ao pacman, dependências e mirrors, até descobrir que a versão da máquina virtual que estava utilizando era antiga e não suportava corretamente um método utilizado pelas versões mais recentes do gerenciador de pacotes. Depois de identificar a causa, consegui entender que o problema não estava simplesmente no pacman, mas na combinação entre a versão do sistema e a infraestrutura utilizada.
 
+após a experiência com o BlackArch, eu tive outra. Fiz um reconhecimento em uma VM metasploitable, porém eu não fui adiante, pois não sabia muito sobre o assunto, e não queria acabar destruindo a VM ou me frustrando, eu queria saber como funcionava, mas sem necessariamente destruir ela ou me frustrar porque não funciona e eu não sabia como funcionava. Eu queria aproveitar o aprendizado.
+
 Essas experiências reforçaram uma coisa que levo para meus projetos: antes de procurar outra ferramenta ou abandonar uma abordagem, tento descobrir exatamente por que ela não está funcionando.
