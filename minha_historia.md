@@ -13,3 +13,10 @@ Meu objetivo é transformar cada erro em conhecimento reutilizável.
 Em trabalho em equipe, procuro assumir uma função clara para poder desempenhá-la da melhor maneira possível. Também busco comunicar problemas de forma objetiva, evitando que pequenas dificuldades se tornem problemas maiores. Respeito prazos e procuro entregar minhas tarefas com qualidade dentro do tempo disponível.
 
 Atualmente, busco desenvolver meus conhecimentos por meio de projetos práticos, estudos independentes e experimentação.
+
+Problemas e aprendizados:
+Durante o desenvolvimento do Leviata, encontrei alguns problemas relacionados principalmente à execução concorrente, threads e ao funcionamento de partes de baixo nível da comunicação de rede. No início, eu ainda não dominava completamente esses conceitos, então precisei investigar o comportamento do programa, entender as causas dos erros e ajustar a implementação. Esse processo me ajudou a compreender melhor concorrência, sincronização e comunicação entre diferentes partes do sistema.
+
+Antes disso, também tive uma experiência semelhante ao começar a explorar o BlackArch Linux. Passei bastante tempo investigando problemas relacionados ao pacman, dependências e mirrors, até descobrir que a versão da máquina virtual que estava utilizando era antiga e não suportava corretamente um método utilizado pelas versões mais recentes do gerenciador de pacotes. Depois de identificar a causa, consegui entender que o problema não estava simplesmente no pacman, mas na combinação entre a versão do sistema e a infraestrutura utilizada.
+
+Essas experiências reforçaram uma coisa que levo para meus projetos: antes de procurar outra ferramenta ou abandonar uma abordagem, tento descobrir exatamente por que ela não está funcionando.
